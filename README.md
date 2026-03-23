@@ -56,6 +56,7 @@ docker run -p 8000:8000 --env-file .env rag-chatbot
 
 Access:
 http://localhost:8000
+```
 
 ## Note!
 Knowledge base PDF is not included
