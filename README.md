@@ -57,15 +57,19 @@ docker run -p 8000:8000 --env-file .env rag-chatbot
 Access:
 http://localhost:8000
 ```
-
+---
 ## Note!
 Knowledge base PDF is not included
 Add your own in ChatGPT/documents/
 
+---
+
 ## Use Cases
-Research Q&A
-Internal knowledge assistant
-Domain-specific chatbot
+- Research Q&A
+- Internal knowledge assistant
+- Domain-specific chatbot
+
+---
 
 ##👨‍💻 Author
 Yash Verma
