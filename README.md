@@ -71,5 +71,5 @@ Add your own in ChatGPT/documents/
 
 ---
 
-##👨‍💻 Author
+## 👨‍💻Author
 Yash Verma
